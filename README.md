@@ -6,18 +6,6 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 
 
-\## Repository Structure
-
-
-
-\- `main` : this README with daily task updates
-
-\- `develop` : empty Bridgelabz\_Java project skeleton
-
-\- `feature/\*`: week-wise topic branches containing the solutions
-
-
-
 \## Daily Task Update
 
 
