@@ -6,6 +6,26 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+### Day 06 - 22 Sep 2026
+
+**What I did:**
+
+* Completed and pushed the remaining Java Control Flow problems (Level 2 & Level 3).
+* Learned core concepts of Java Arrays (1D and 2D / multi-dimensional arrays).
+* Solved and pushed Java Arrays Level 1 problems (voting eligibility, number check, multiplication tables, factors, football player heights, FizzBuzz, and 2D-to-1D array conversion).
+* Solved and pushed Java Arrays Level 2 problems (BMI calculator using 1D & 2D arrays, digit frequency, finding largest & second largest digits, employee bonus calculation, friend height/age comparisons, number reversal, and student marks/grades computation).
+
+**What I will do:**
+
+* Learn and practice Java Methods and String manipulation.
+* Continue strengthening problem-solving skills and revise core Java concepts.
+
+**Issues Faced:**
+
+* None
+
+---
+
 ### Day 05 - 21 Sep 2026
 
 **What I did:**
