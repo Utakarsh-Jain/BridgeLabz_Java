@@ -13,14 +13,14 @@ public class MultiplicationSixToNine {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number:");
-        int number = sc.nextInt();
-        int multiplicationResult[]= new int[4];
-        for (int i = 6; i <= 9; i++) {
-            multiplicationResult[i - 6] = number * i;
+        int number = sc.nextInt(); // Taking the user input
+        int multiplicationResult[]= new int[4]; // Declaring an array to store the multiplication result
+        for (int i = 6; i <= 9; i++) { // Loop to calculate the multiplication table of numbers from 6 to 9
+            multiplicationResult[i - 6] = number * i; // Storing the multiplication result in the array
         }
 
-        for (int i = 6; i <= 9; i++) {
-            System.out.println(number + " * " + i + " = " + multiplicationResult[i - 6]);
+        for (int i = 6; i <= 9; i++) { // Loop to display the multiplication result 
+            System.out.println(number + " * " + i + " = " + multiplicationResult[i - 6]); 
         }
         sc.close();
     }

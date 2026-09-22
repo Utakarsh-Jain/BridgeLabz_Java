@@ -16,30 +16,30 @@ Finally display the total value
 public class StoreNumbers {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        double numbers[]= new double[10];
-        double total = 0.0;
-        int index = 0;
-        while (true) {
+        double numbers[]= new double[10]; // Declaring an array of size 10 to store the numbers
+        double total = 0.0; // Declaring a variable to store the sum of the numbers
+        int index = 0; // Declaring a variable to store the index of the array
+        while (true) { // Infinite while loop
             System.out.print("Enter a number: ");
-            double number = sc.nextDouble();
-            if (number <= 0) {
+            double number = sc.nextDouble(); // Taking the user input
+            if (number <= 0) { // Checking if the number is 0 or negative
+                break;
+            } 
+
+            if (index == 10) { // Checking if the index is 10
                 break;
             }
 
-            if (index == 10) {
-                break;
-            }
-
-            numbers[index] = number;
-            index++;
+            numbers[index] = number; // Storing the number in the array
+            index++; // Incrementing the index
         }
 
         System.out.println("Numbers entered:");
-        for (int i = 0; i < index; i++) {
-            System.out.println(numbers[i]);
-            total += numbers[i];
+        for (int i = 0; i < index; i++) { // Loop to print the numbers 
+            System.out.println(numbers[i]); // Printing the numbers
+            total += numbers[i]; // Adding the numbers 
         }
-        System.out.println("Sum =" + total);
-        sc.close();
+        System.out.println("Sum:" + total); // Printing the sum of the numbers
+        sc.close(); // Closing the scanner
     }
 }
