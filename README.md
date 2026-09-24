@@ -6,6 +6,25 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+### Day 07 - 23 Sep 2026
+
+**What I did:**
+
+* Learned core concepts of Java Methods 
+* Solved and pushed Java Methods Level 1 problems 
+* Solved and pushed Java Methods Level 2 problems 
+
+**What I will do:**
+
+* Solve problems of Level 3 of Java Methods
+* Continue strengthening problem-solving skills and revise core Java concepts.
+
+**Issues Faced:**
+
+* None
+
+---
+
 ### Day 06 - 22 Sep 2026
 
 **What I did:**
