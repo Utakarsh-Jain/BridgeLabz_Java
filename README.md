@@ -11,14 +11,14 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 ### Day 13 - 30 Sep 2026
 
 **What I did:**
-Revised basic oops concepts like java class and objects.
-Completed problems on java class and objects. 
-Completed problems on java constructors , Instance vs. Class Variables and Access Modifiers Concepts
+* Revised basic oops concepts like java class and objects.
+* Completed problems on java class and objects. 
+* Completed problems on java constructors , Instance vs. Class Variables and Access Modifiers Concepts
 
 
 **What I will do:**
 
-Work on problems based on this , final , instanceof operation 
+* Work on problems based on this , final , instanceof operation 
 
 **Issues Faced:**
 
@@ -30,13 +30,13 @@ Work on problems based on this , final , instanceof operation
 ### Day 12 - 29 Sep 2026
 
 **What I did:**
-completed java class and object level 1 problems 
-Practiced and revised different String concepts and problem-solving approaches.
+* completed java class and object level 1 problems 
+* Practiced and revised different String concepts and problem-solving approaches.
 
 
 **What I will do:**
 
-work on level 2 problems of java class and object and problems based on constructors
+* work on level 2 problems of java class and object and problems based on constructors
 
 **Issues Faced:**
 
@@ -49,15 +49,15 @@ work on level 2 problems of java class and object and problems based on construc
 
 **What I did:**
 
-Completed the extra problems on Java Strings given today.
-Practiced and revised different String concepts and problem-solving approaches.
+* Completed the extra problems on Java Strings given today.
+* Practiced and revised different String concepts and problem-solving approaches.
 
 
 **What I will do:**
 
-Start learning Week 2 concepts.
-Start solving the problems related to Week 2 concepts.
-Revise the given topics for Review 1
+* Start learning Week 2 concepts.
+* Start solving the problems related to Week 2 concepts.
+* Revise the given topics for Review 1
 
 **Issues Faced:**
 
