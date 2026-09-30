@@ -6,6 +6,27 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+
+
+
+### Day 12 - 29 Sep 2026
+
+**What I did:**
+completed java class and object level 1 problems 
+Practiced and revised different String concepts and problem-solving approaches.
+
+
+**What I will do:**
+
+work on level 2 problems of java class and object and problems based on constructors
+
+**Issues Faced:**
+
+* None
+
+---
+
+
 ### Day 11 - 28 Sep 2026
 
 **What I did:**
