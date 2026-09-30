@@ -8,6 +8,24 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 
 
+### Day 13 - 30 Sep 2026
+
+**What I did:**
+Revised basic oops concepts like java class and objects.
+Completed problems on java class and objects. 
+Completed problems on java constructors , Instance vs. Class Variables and Access Modifiers Concepts
+
+
+**What I will do:**
+
+Work on problems based on this , final , instanceof operation 
+
+**Issues Faced:**
+
+* None
+
+---
+
 
 ### Day 12 - 29 Sep 2026
 
