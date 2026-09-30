@@ -16,7 +16,7 @@ class MovieTicket {
     String movieName;
     int seatNumber;
     double price;
-    void bookTicket(String movieName, int seatNumber) {
+    void bookTicket(String movieName, int seatNumber, double price) {
         this.movieName = movieName; 
         this.seatNumber = seatNumber;
         this.price = price;
@@ -30,11 +30,12 @@ class MovieTicket {
         MovieTicket m = new MovieTicket();
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the movie name: ");
-        m.movieName = sc.nextLine();
+        String movieName = sc.nextLine();
         System.out.print("Enter the seat number: ");
-        m.seatNumber = sc.nextInt();
+        int seatNumber = sc.nextInt();
         System.out.print("Enter the price: ");
-        m.price = sc.nextDouble(); 
+        double price = sc.nextDouble(); 
+        m.bookTicket(movieName, seatNumber, price);
         m.displayTicket();
         sc.close();
     }
