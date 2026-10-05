@@ -7,6 +7,44 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 ## Daily Task Update
 
 
+### Day 16 - 3 Oct 2026
+
+**What I did:**
+* Completed problems on inheritance. 
+* Understood the concepts of polymorphism, abstraction and encapsulation. 
+
+
+**What I will do:**
+
+* Complete the remaining problems and revise oops concept
+
+**Issues Faced:**
+
+* None
+
+---
+
+
+
+### Day 15 - 2 Oct 2026
+
+**What I did:**
+* Studied about inheritance and revised static problems
+* Learned about the concepts of object modelling & relations.
+
+
+**What I will do:**
+
+* Will complete problems on inheritance.
+
+**Issues Faced:**
+
+* None
+
+---
+
+
+
 ### Day 14 - 1 Oct 2026
 
 **What I did:**
