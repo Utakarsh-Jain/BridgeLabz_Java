@@ -7,6 +7,24 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 ## Daily Task Update
 
 
+### Day 14 - 1 Oct 2026
+
+**What I did:**
+* Completed Problems on this, static , final keyword & instanceof operator
+* Learned about the concepts of object modelling & relations.
+
+
+**What I will do:**
+
+* Complete problems on object modelling & relations.
+
+**Issues Faced:**
+
+* None
+
+---
+
+
 
 ### Day 13 - 30 Sep 2026
 
