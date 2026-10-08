@@ -6,6 +6,22 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+### Day 20 - 8 Oct 2026
+
+**What I did:**
+* completed questions on linked lists
+* Completed questions on stack and queues.
+
+**What I will do:**
+
+* Complete questions on hashmap hashing and sorting Practice Problems
+
+**Issues Faced:**
+
+* None
+
+---
+
 ### Day 19 - 7 Oct 2026
 
 **What I did:**
