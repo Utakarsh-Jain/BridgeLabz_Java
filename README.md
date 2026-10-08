@@ -6,6 +6,57 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+### Day 19 - 7 Oct 2026
+
+**What I did:**
+* Continued learning linkedlist 
+* Solved problems on linkedlist
+* Learned basic concepts of stack , queue & hashmaps.
+
+**What I will do:**
+
+* Complete the Remaining problems on linkedlist
+* Solve problems on stack , hash maps , etc
+
+**Issues Faced:**
+
+* None
+
+---
+
+
+### Day 18 - 6 Oct 2026
+
+**What I did:**
+* Started learning Data Structures
+* Solved few problems on linkedlist
+
+**What I will do:**
+
+* Complete the Remaining Linked List Practice Problems
+
+**Issues Faced:**
+
+* None
+
+---
+
+
+### Day 17 - 5 Oct 2026
+
+**What I did:**
+* Revised concepts of OOPS and did  some practice questions on it.
+
+**What I will do:**
+
+* Continue practicing problems based on OOPS and learn new concepts of dsa.
+
+**Issues Faced:**
+
+* None
+
+---
+
 
 ### Day 16 - 3 Oct 2026
 
