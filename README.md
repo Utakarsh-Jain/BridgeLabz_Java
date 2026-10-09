@@ -6,6 +6,22 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+### Day 21 - 9 Oct 2026
+
+**What I did:**
+* Completed questions on linear search , binary search , string builder, string buffer.
+
+**What I will do:**
+
+* Complete the remaining questions left in the searching algorithms.
+  
+**Issues Faced:**
+
+* None
+
+---
+
+
 ### Day 20 - 8 Oct 2026
 
 **What I did:**
