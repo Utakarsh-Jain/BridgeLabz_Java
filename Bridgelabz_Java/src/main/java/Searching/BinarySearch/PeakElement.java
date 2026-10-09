@@ -12,10 +12,8 @@ If arr[mid] < arr[mid - 1], then search the left half, updating right = mid - 1.
 If arr[mid] < arr[mid + 1], then search the right half, updating left = mid + 1.
 Continue until a peak element is found.
 
-
 Name : Utakarsh Jain
 Date : 9/10/2026
-
 
 */
 
