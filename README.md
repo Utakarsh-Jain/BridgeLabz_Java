@@ -6,6 +6,43 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+
+### Day 23 - 12 Oct 2026
+
+**What I did:**
+* Revised all the topics of linear data structure.
+* Started learning about collection framework
+
+
+**What I will do:**
+
+* Complete the task assigned for collection framework.
+  
+**Issues Faced:**
+
+* None
+
+---
+
+
+### Day 22 - 10 Oct 2026
+
+**What I did:**
+* Completed all the pending tasks
+* Started learning about time and space complexity.
+
+**What I will do:**
+
+* Complete time and space complexity and revise all topics for review
+  
+**Issues Faced:**
+
+* None
+
+---
+
+
+
 ### Day 21 - 9 Oct 2026
 
 **What I did:**
