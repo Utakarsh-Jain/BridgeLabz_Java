@@ -7,6 +7,22 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 ## Daily Task Update
 
 
+### Day 24 - 13 Oct 2026
+
+**What I did:**
+* Completed questions on time complexity and started learning concepts based on collection framework.
+
+
+**What I will do:**
+
+* Complete the remaining problems on the java collection framework.
+  
+**Issues Faced:**
+
+* None
+
+---
+
 ### Day 23 - 12 Oct 2026
 
 **What I did:**
