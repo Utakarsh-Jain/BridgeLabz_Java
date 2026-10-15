@@ -8,7 +8,7 @@ Date: 14/10/2026
 
 */
 
-package main.java.SetInterface;
+package main.java.Collections.SetInterface;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -8,7 +8,7 @@ Name: Utakarsh Jain
 Date: 14/10/2026
 */
 
-package main.java.MapInterface;
+package main.java.Collections.MapInterface;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

@@ -8,7 +8,7 @@ Name : Utakarsh Jain
 Date: 14/10/2026
 */
 
-package main.java.ListInterface;
+package main.java.Collections.ListInterface;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

@@ -7,8 +7,7 @@ LinkedHashMap is used to maintain the order of votes.
 Name: Utakarsh Jain
 Date: 15/10/2026
 */
-
-package main.java.MapInterface;
+package main.java.Collections.MapInterface;
 import java.util.*;
 class VotingSystem {
     private HashMap<String, Integer> votes = new HashMap<>(); // hash map to store votes 

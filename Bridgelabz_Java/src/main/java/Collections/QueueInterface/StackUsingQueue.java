@@ -9,8 +9,7 @@ Date: 14/10/2026
 
 */
 
-package main.java.QueueInterface;
-
+package main.java.Collections.QueueInterface;
 import java.util.LinkedList;
 import java.util.Queue;
 

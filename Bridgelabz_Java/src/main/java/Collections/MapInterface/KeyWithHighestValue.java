@@ -8,7 +8,7 @@ Date: 14/10/2026
 
 */
 
-package main.java.MapInterface;
+package main.java.Collections.MapInterface;
 import java.util.HashMap; 
 import java.util.Map; 
 public class KeyWithHighestValue {

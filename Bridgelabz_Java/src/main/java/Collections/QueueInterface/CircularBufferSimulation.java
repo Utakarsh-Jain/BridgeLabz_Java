@@ -9,9 +9,7 @@ Date: 14/10/2026
 
 */
 
-
-package main.java.QueueInterface;
-
+package main.java.Collections.QueueInterface;
 public class CircularBufferSimulation {
     private int[] buffer;
     private int front, rear, size, capacity;
