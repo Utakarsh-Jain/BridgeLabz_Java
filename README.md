@@ -6,6 +6,68 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+### Day 28 - 17 Oct 2026
+
+**What I did:**
+* Solved questions on java 8 features.
+
+**What I will do:**
+
+* practice more questions on streams and start learning exception handling.
+  
+**Issues Faced:**
+
+* None
+
+---
+
+
+### Day 27 - 17 Oct 2026
+
+**What I did:**
+* Practiced problems on streams
+
+**What I will do:**
+
+* Learn concepts on regex and exception handling
+  
+**Issues Faced:**
+
+* None
+
+---
+
+### Day 26 - 15 Oct 2026
+
+**What I did:**
+* Completed collections and generics.
+
+**What I will do:**
+
+* complete Java 8 and Java 17 features
+  
+**Issues Faced:**
+
+* None
+
+---
+
+### Day 25 - 14 Oct 2026
+
+**What I did:**
+* Completed problems related to Java Collections. Started learning java 8 features.
+
+
+**What I will do:**
+
+* Complete the pending tasks assigned.
+  
+**Issues Faced:**
+
+* None
+
+---
+
 
 ### Day 24 - 13 Oct 2026
 
