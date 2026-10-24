@@ -6,6 +6,51 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+### Day 31 - 22 Oct 2026
+
+**What I did:**
+* Learn about IOstreams and annotations
+  
+**What I will do:**
+
+* Complete the remaining problems on File IO and Annotations and start learning design principles and patterns.
+  
+**Issues Faced:**
+
+* None
+
+---
+
+### Day 30 - 21 Oct 2026
+
+**What I did:**
+* Started learning about Java File IO
+  
+**What I will do:**
+
+* Complete Java File IO and Annotations
+  
+**Issues Faced:**
+
+* None
+
+---
+
+### Day 29 - 19 Oct 2026
+
+**What I did:**
+* Problems on exception handling and regex.
+
+**What I will do:**
+
+* Practice problems on regex and JUnit 5
+  
+**Issues Faced:**
+
+* None
+
+---
+
 ### Day 28 - 17 Oct 2026
 
 **What I did:**
