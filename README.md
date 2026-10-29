@@ -6,6 +6,86 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+### Day 36 - 28 Oct 2026
+
+**What I did:**
+* Started working on jdbc and sql.
+  
+**What I will do:**
+
+* complete the pending tasks.
+  
+**Issues Faced:**
+
+* None
+
+---
+
+### Day 35 - 27 Oct 2026
+
+**What I did:**
+* SQL Commands and ways to work on databases
+* Worked on a problem statement given in the GCR
+* Revised for the review.
+  
+**What I will do:**
+
+* complete the pending tasks.
+  
+**Issues Faced:**
+
+* None
+
+---
+
+### Day 34 - 26 Oct 2026
+
+**What I did:**
+* Setting up the sql and learn basic query commands.
+* Revised for the review.
+  
+**What I will do:**
+
+* complete the pending tasks.
+  
+**Issues Faced:**
+
+* None
+
+---
+
+### Day 33 - 24 Oct 2026
+
+**What I did:**
+* Started Multithreading
+  
+**What I will do:**
+
+* Complete multithreading, and Client Server Architechture
+  
+**Issues Faced:**
+
+* None
+
+---
+
+### Day 32 - 23 Oct 2026
+
+**What I did:**
+* Design Patterns and a few principles
+  
+**What I will do:**
+
+* Complete Design Patterns
+* Start Multithreading and TDD
+  
+**Issues Faced:**
+
+* None
+
+---
+
+
 ### Day 31 - 22 Oct 2026
 
 **What I did:**
