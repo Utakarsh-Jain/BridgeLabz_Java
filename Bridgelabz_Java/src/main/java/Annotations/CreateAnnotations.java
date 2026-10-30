@@ -12,7 +12,7 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 @Inherited // @Inherited applies to class annotations, so it has no effect with METHOD only.
 @interface MethodInfo {
-    String author() default "Mihir";
+    String author() default "Utakarsh";
     String date();
     int revision() default 1;
     String comments() default "";
@@ -22,7 +22,7 @@ public class CreateAnnotations {
 
     @MethodInfo(date = "October 27, 2026", comments = "A small annotation example")
     public void sayHello() {
-        System.out.println("Hello from an annotated method!");
+        System.out.println("Hello");
     }
 
     public static void main(String[] args) {

@@ -6,7 +6,7 @@ import java.lang.reflect.Method;
 public class TestAnnotations {
 
     @Override
-    @MethodInfo(author = "Mihir", date = "October 27, 2026",
+    @MethodInfo(author = "Utakarsh, date = "October 27, 2026",
             revision = 1, comments = "Overrides Object.toString()")
     public String toString() {
         return "This method has MethodInfo metadata.";
