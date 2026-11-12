@@ -6,6 +6,152 @@ Java assignments and practice problems completed as part of the BridgeLabz train
 
 ## Daily Task Update
 
+
+### Day 43 - 11 Nov 2026
+
+**What I did:**
+* Spring DTO , Exception handling, Logging and Filter Chain
+  
+**What I will do:**
+
+* Complete Spring Security and all the pending assignments
+  
+**Issues Faced:**
+
+* None
+
+--
+
+
+### Day 42 - 6 Nov 2026
+
+**What I did:**
+* 
+
+Revised Spring, Spring Boot, DBMS, and JDBC.
+  
+**What I will do:**
+
+* start spring booth advanced concepts
+  
+**Issues Faced:**
+
+* None
+
+--
+
+
+### Day 43 - 5 Nov 2026
+
+**What I did:**
+* Revised SpringBoot and JDBC
+  
+**What I will do:**
+
+* Start working on advance springboot
+  
+**Issues Faced:**
+
+* None
+
+--
+
+
+
+### Day 42 - 4 Nov 2026
+
+**What I did:**
+* Revised SpringBoot and JDBC
+  
+**What I will do:**
+
+* Start working on advance springboot
+  
+**Issues Faced:**
+
+* None
+
+--
+
+### Day 41 - 3 Nov 2026
+
+**What I did:**
+* Revised SpringBoot and JDBC
+  
+**What I will do:**
+
+* Start working on advance springboot
+  
+**Issues Faced:**
+
+* None
+
+--
+
+
+### Day 40 - 2 Nov 2026
+
+**What I did:**
+* Worked till Dependency Injection and IOC
+* Worked on CRUD Applications
+  
+**What I will do:**
+
+* Start working on JDBC and JPA Concepts
+  
+**Issues Faced:**
+
+* None
+
+--
+
+### Day 39 - 31 Oct 2026
+
+**What I did:**
+* Started learning spring.
+  
+**What I will do:**
+
+* Complete spring and springboot along with their respective assignments.
+  
+**Issues Faced:**
+
+* None
+
+---
+
+### Day 38 - 30 Oct 2026
+
+**What I did:**
+* Learned concepts based on jdbc and sql.
+  
+**What I will do:**
+
+* Start learning spring and complete the assignment.
+  
+**Issues Faced:**
+
+* None
+
+---
+
+
+### Day 37 - 29 Oct 2026
+
+**What I did:**
+* Started working on jdbc and sql.
+  
+**What I will do:**
+
+* Complete the pending tasks and start learning spring.
+  
+**Issues Faced:**
+
+* None
+
+---
+
+
 ### Day 36 - 28 Oct 2026
 
 **What I did:**
